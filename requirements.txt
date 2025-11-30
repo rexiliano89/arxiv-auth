@@ -94,7 +94,7 @@ uWSGI==2.0.20
 vine==5.0.0
 wcwidth==0.2.5
 webencodings==0.5.1
-Werkzeug==1.0.1
+Werkzeug==3.1.4
 wrapt==1.12.1
 WTForms==2.3.1
 zipp==3.6.0
